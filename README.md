@@ -2,7 +2,7 @@
 
 Crystal structure reconstruction from contact maps.
 
-Wenhui Yang & Jianjun Hu
+Jianjun Hu & Wenhui Yang  
 University of South Carolina & Guizhou University
 
 ```
