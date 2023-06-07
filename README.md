@@ -1,12 +1,31 @@
-# cmcrystal
+# CMcrystal
 
-Wenhui Yang
+Crystal structure reconstruction from contact maps.
+
+Wenhui Yang & Jianjun Hu
+University of South Carolina & Guizhou University
+
+```
+Cite us:
+@article{hu2021contact,
+  title={Contact map based crystal structure prediction using global optimization},
+  author={Hu, Jianjun and Yang, Wenhui and Dong, Rongzhi and Li, Yuxin and Li, Xiang and Li, Shaobo and Siriwardane, Edirisuriya MD},
+  journal={CrystEngComm},
+  volume={23},
+  number={8},
+  pages={1765--1776},
+  year={2021},
+  publisher={Royal Society of Chemistry}
+}
+```
 
 
-exp2 directory：target material and target material input
 
 
-usage：
+
+## usage：
+
+cd exp2 directory：target material and target material input
 
 Predict the crystal structure:\
 python CMC.py --input exp2/3-109-mp-758053.input \
